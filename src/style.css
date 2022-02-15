@@ -1,1 +1,8 @@
-/* styles go here */
+
+fieldset {
+  margin: 20px;
+}
+
+p {
+  margin: 10px;
+}
