@@ -1,8 +1,8 @@
 
-fieldset {
-  margin-bottom: 20px;
+div p:not(:first-child) {
+  margin-bottom: 10px;
 }
 
-p {
-  margin: 5px;
+fieldset {
+  margin-bottom: 20px;
 }
