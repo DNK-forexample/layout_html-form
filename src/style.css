@@ -1,5 +1,5 @@
 
-div p:not(:first-child) {
+div p:not(:last-child) {
   margin-bottom: 10px;
 }
 
