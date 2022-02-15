@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,SACE,WACF,CAEA,EACE,WACF","file":"style.183ee5e7.css","sourceRoot":"..\\src","sourcesContent":["\nfieldset {\n  margin: 20px;\n}\n\np {\n  margin: 10px;\n}\n"]}
